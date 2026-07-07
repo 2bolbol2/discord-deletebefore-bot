@@ -1,0 +1,16 @@
+{
+  "name": "discord-deletebefore-bot",
+  "version": "2.0.0",
+  "description": "Discord bot to delete all messages before a specific message using slash command.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
